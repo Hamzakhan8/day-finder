@@ -22,7 +22,7 @@
 <body >
 <div id="card">
 	<h1>DAY FINDER</h1>
-<form action="" method="POST" class="col-8" >
+<form action="" method="POST" id="form" class="col-8" >
 	<div class="form-group">
 	 
 	  <input type="number"
